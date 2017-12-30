@@ -1,0 +1,3 @@
+# Setting Global Environment PATH ==> So RStudio can find Jekyll
+# PATH is from: echo $PATH (in xcfe-terminal)
+Sys.setenv(PATH="/home/lbunarch/.gem/ruby/2.4.0/bin:/bin:/usr/bin:/usr/local/bin:/home/lbunarch/bin:/usr/local/stata:/usr/local/stata13:/home/linhbun/juliapro/JuliaPro-0.6.0.1:/home/lbunarch/.rvm/bin")
